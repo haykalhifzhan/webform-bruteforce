@@ -1,0 +1,22 @@
+#ini merupakan contoh isi wordlist dari usernamenya dengan berformat .txt
+ admin
+administrator
+root
+user
+guest
+test
+demo
+info
+support
+sysadmin
+webadmin
+ftp
+mail
+postgres
+oracle
+mysql
+backup
+security
+default
+ubuntu
+pi
